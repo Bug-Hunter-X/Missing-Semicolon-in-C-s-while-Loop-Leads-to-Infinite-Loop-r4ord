@@ -1,0 +1,1 @@
+int main() {    int i = 0;    while (i < 10) {        printf("%d\n", i++); // This will cause an infinite loop due to the missing semicolon     }    return 0;}
