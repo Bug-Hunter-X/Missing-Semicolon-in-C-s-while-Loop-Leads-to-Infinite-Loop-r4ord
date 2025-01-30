@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in C programming: a missing semicolon in a while loop.  The missing semicolon causes unexpected behavior resulting in an infinite loop. The bug.c file illustrates the error, and bugSolution.c provides the corrected version. This is a good example of how seemingly small syntax errors can have significant consequences.
